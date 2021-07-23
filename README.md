@@ -1,14 +1,12 @@
 ### Hi there 👋
 
  ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&lines=Hey+👋,+I'm+Rohan+Sachdeva)
-
 <!--
 <img align="right" alt="GIF" width="300px" height="250px" src="https://github.com/eg7409/eg7409/blob/main/image.gif" />
 -->
-![Profile Views](https://komarev.com/ghpvc/?username=rsachdeva1020&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=rsachdeva1020&color=green&style=flat-square&label=SNEEK-PEEK)
 
 ## I'm a Student and Developer!!
-
 <!-- <div>
   <br>
   <p>
@@ -16,7 +14,7 @@
   </p>  
 </div>   -->
 
-<img src="https://img.shields.io/badge/Computer%20Science%20Sophomore%20-SRMIST, Chennai-brightgreen?style=for-the-badge&logo=one" />
+<img src="https://img.shields.io/badge/Computer%20Science%20-SRMIST, Chennai-brightgreen?style=for-the-badge&logo=one" />
 
 <!-- ### Connect with me: -->
 <br>
@@ -33,37 +31,48 @@
 <!-- ### Languages, Tools & Framework: -->
 <br><br>
  <img height=40px width=220px src="https://img.shields.io/badge/I%20can%20help%20you%20in-black?&style=for-the-badge">
-
-
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+ 
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 <!--
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
+![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
+-->
+<!--
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 -->
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<!--
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+-->
+<br>
 
-
+ #### ✨[Skyline View](https://skyline.github.com/rsachdeva1020/2021)
 
 <br />
 <br />
 
-
-
- <details>
-  <summary><img width="250px" height="40px" src="https://img.shields.io/badge/My%20github%20stats-black?&style=for-the-badge&logo=github " /></summary>
+  <img width="250px" height="40px" src="https://img.shields.io/badge/My%20github%20stats-black?&style=for-the-badge&logo=github " />
   <br>
-  <p> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rsachdeva1020&theme=radical&layout=compact&show_icons=true" alt="rsachdeva1020" /><br/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsachdeva1020&theme=radical&layout=compact&hide=html" alt="rsachdeva1020" /> 
-  <img align="center" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rsachdeva1020&show_icons=true&theme=tokyonight"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsachdeva1020&theme=radical&layout=compact&hide=html" alt="rsachdeva1020" /> 
   <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=rsachdeva1020&theme=react-dark"/>
+<br/>
     
   </p>
-
-</details>
-
 
 [linkedin]: https://www.linkedin.com/in/rohansachdeva1020/
 
