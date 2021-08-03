@@ -59,6 +59,23 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 -->
 <br>
+<!-- baad me add krunga ye -->
+<!-- ### 📢 Find me elsewhere
+<p align="left">
+  <a href="https://www.codechef.com/users/rsachdeva1020">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/rohansachdeva1020/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/rohansachdeva101">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+</p> -->
+
+<br>
 
  #### ✨[Skyline View](https://skyline.github.com/rsachdeva1020/2021)
 
