@@ -88,7 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsachdeva1020&theme=radical&layout=compact" alt="rsachdeva1020" /> 
   <img align="left" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rsachdeva1020&show_icons=true&theme=tokyonight"/> 
 <!--   <br> -->
-<!--   <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=rsachdeva1020&theme=react-dark"/> -->
+  <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=rsachdeva1020&theme=react-dark"/>
 <br/>
     
   </p>
