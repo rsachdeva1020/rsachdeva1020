@@ -32,10 +32,10 @@
 <br><br>
  <img height=40px width=220px src="https://img.shields.io/badge/I%20can%20help%20you%20in-black?&style=for-the-badge">
  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C&logoColor=orange)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=C%2B%2B&logoColor=brightgreen)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
