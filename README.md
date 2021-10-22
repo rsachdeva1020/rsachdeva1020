@@ -81,14 +81,20 @@
 
 <br />
 <br />
-
   <img width="250px" height="40px" src="https://img.shields.io/badge/My%20github%20stats-black?&style=for-the-badge&logo=github " />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsachdeva1020&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rsachdeva1020&theme=dracula)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsachdeva1020&theme=dracula) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsachdeva1020&theme=radical&layout=compact" alt="rsachdeva1020" />
+
+
   <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rsachdeva1020&theme=radical&layout=compact&show_icons=true" alt="rsachdeva1020" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsachdeva1020&theme=radical&layout=compact" alt="rsachdeva1020" /> 
-  <img align="left" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rsachdeva1020&show_icons=true&theme=tokyonight"/> 
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rsachdeva1020&theme=radical&layout=compact&show_icons=true" alt="rsachdeva1020" /><br/> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsachdeva1020&theme=radical&layout=compact" alt="rsachdeva1020" />  -->
+<!--   <img align="left" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rsachdeva1020&show_icons=true&theme=tokyonight"/>  -->
 <!--   <br> -->
-  <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=rsachdeva1020&theme=react-dark"/>
+<!--   <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=rsachdeva1020&theme=react-dark"/> -->
 <br/>
     
   </p>
